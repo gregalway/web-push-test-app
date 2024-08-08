@@ -1,5 +1,5 @@
 {
   "name": "Web Push PWA",
-  "start_url": "https://gregalway.github.io/web-push-test-app/",
+  "start_url": "/web-push-test-app/",
   "display": "fullscreen"
 }
