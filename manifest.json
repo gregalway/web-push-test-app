@@ -1,5 +1,5 @@
 {
   "name": "Web Push PWA",
-  "start_url": "/",
+  "start_url": "/web-push-test-app/",
   "display": "fullscreen"
 }
